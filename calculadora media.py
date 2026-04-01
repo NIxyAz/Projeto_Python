@@ -1,5 +1,4 @@
 nota = []
-import math
 
 nome = input("Digite o nome do aluno: ")
 nome_da_diciplina = input("Digite o nome da disciplina: ")
